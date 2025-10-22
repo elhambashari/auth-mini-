@@ -1,6 +1,6 @@
 import { useState } from "react";
 import SignIn from "./pages/signIn.js";
-import SignUp from "./pages/signup.js";
+import SignUp from "./pages/signUp.js";
 import "./App.css";
 
 function App() {
